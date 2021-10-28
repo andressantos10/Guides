@@ -1,10 +1,10 @@
 # Introdução
 
-Este guia é uma visão sobre o que o mercado está utilizando de tecnologias, e artigos para te guiar à entender sobre o cargo de SRE(Site Reability Engineer), cultura DevOps, entre outros temas.
+Este guia é uma visão sobre o que o mercado está utilizando de tecnologias, e artigos para te guiar à entender sobre a disciplina de SRE(Site Reability Engineer), cultura DevOps, entre outros temas.
 
 ### SRE(Site reability engineer) ###
-É um cargo que em resumo, junta “N” posições dentro de uma cadeira, dentre elas: sysadmin, monitoramento, arquitetura, sustentação, desenvolvimento, segurança, redes e algumas outras.
-Para você entender melhor recomendo você ler esse artigo do velho e bom Chico, ele faz um relato muito bom sobre esse cargo que começou no Google e hoje existe em praticamente todas as empresas: https://www.linkedin.com/pulse/o-sysadmin-do-futuro-ou-presente-francisco-freire/?trackingId=PaFsDjOSQD%2BzRSGM0qcGbA%3D%3D.
+É uma disciplina que em resumo, junta “N” posições dentro de uma cadeira, dentre elas: sysadmin, monitoramento, arquitetura, sustentação, desenvolvimento, segurança, redes e algumas outras.
+Para você entender melhor recomendo você ler esse artigo do velho e bom Chico, ele faz um relato muito bom sobre essa disciplina que começou no Google e hoje existe em praticamente todas as empresas: https://www.linkedin.com/pulse/o-sysadmin-do-futuro-ou-presente-francisco-freire/?trackingId=PaFsDjOSQD%2BzRSGM0qcGbA%3D%3D.
 
 Livro oficial do Google sobre o tema SRE: https://sre.google/sre-book/table-of-contents/.
 
@@ -16,7 +16,7 @@ Artigos que descrevem melhor a cultura DevOps:
 - https://azure.microsoft.com/pt-br/overview/what-is-devops/
 
 ### Cloud Computing ###
-Pegando esses conceitos do cargo de SRE e cultura DevOps, chegamos no assunto Cloud Computing, que basicamente hoje é utilizada em larga escala pelas empresas(pequenas, médias e grandes), além de startups, fintechs, entre outras; por basicamente não necessitar de provisionamento de infraestrutura física em datacenters, que possuem um custo alto na compra de equipamentos (storages, servidores, ferramentas de backup, rede etc.), e necessitar de um time com diversos skills para gerenciar esse ambiente, além do custo da manutenção deste ambiente. A cloud resolve este problema pois tem 3 conceitos de serviços básicos: IaaS (Infraestrutura como um serviço), PaaS (Plataforma como um Serviço) e SaaS (Software como um Serviço).
+Pegando esses conceitos da disciplina de SRE e cultura DevOps, chegamos no assunto Cloud Computing, que basicamente hoje é utilizada em larga escala pelas empresas(pequenas, médias e grandes), além de startups, fintechs, entre outras; por basicamente não necessitar de provisionamento de infraestrutura física em datacenters, que possuem um custo alto na compra de equipamentos (storages, servidores, ferramentas de backup, rede etc.), e necessitar de um time com diversos skills para gerenciar esse ambiente, além do custo da manutenção deste ambiente. A cloud resolve este problema pois tem 3 conceitos de serviços básicos: IaaS (Infraestrutura como um serviço), PaaS (Plataforma como um Serviço) e SaaS (Software como um Serviço).
 Além disto, podemos ter cloud privadas, públicas e hibridas, mas aqui vamos focar nas clouds públicas(principais) que são: AWS (Amazon Web Services), Azure (Microsoft), GCP (Google Cloud Plataform) e OCI (Oracle Cloud Infrastructure).
 Aqui vou deixar alguns conteúdos free para estudo que vai ajudar nos conceitos básicos de cloud.
 A Microsoft possui o Learn, que possui conteúdo free para suas certificações, onde basta você acessá-lo (pode usar sua conta Hotmail, outlook, gmail) e ir realizando os módulos. Para iniciar, recomendo a [AZ-900](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900) que é a certificação inicial da Microsoft e vai lhe passar uma visão geral de cloud e logicamente do Azure, da prórpia Microsoft.
