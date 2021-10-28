@@ -1,4 +1,4 @@
-# Intrudução
+# Introdução
 
 Este guia é uma visão minha sobre tendencias do mercado, tecnologias, e artigos para te guiar à entender sobre o cargo de SRE(Site Reability Engineer), cultura DevOps, e sobre tecnologias utilizadas por grandes empresas e startups no momento.
 
