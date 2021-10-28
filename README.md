@@ -1,6 +1,6 @@
-# Guides
+# Intrudução
 
-Este guia é uma visão minha sobre tendencias do mercado, tecnologias, e artigos para te guiar à entender sobre o cargo de SRE(Site Reability Engineer), cultura DevOps, e por fim sobre tecnologias utilizadas por grandes empresas e startups.
+Este guia é uma visão minha sobre tendencias do mercado, tecnologias, e artigos para te guiar à entender sobre o cargo de SRE(Site Reability Engineer), cultura DevOps, e sobre tecnologias utilizadas por grandes empresas e startups no momento.
 
 ### SRE(Site reability engineer) ###
 É um cargo que em resumo, junta “N” posições dentro de uma cadeira, dentre elas: sysadmin, monitoramento, arquitetura, sustentação, desenvolvimento, segurança, redes e algumas outras.
