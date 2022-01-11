@@ -74,7 +74,7 @@ Um site que uso bastante para agregar no meu conhecimento é o Katacoda, ele pro
 
 - [Cloud Native](https://landscape.cncf.io/): Basicamente mostra o que está sendo usado de tecnologia, e o que é tendência.
 - [Katacoda](https://www.katacoda.com/): Site free, com cursos de nível variado de diversas tecnologias.
-- [12 factors](https://12factor.net/pt_br/): Guia muito importante é os “12 fatores” que todo software ou aplicação deveria seguir.
+- [12 factors](https://12factor.net/pt_br/): Guia muito importante, que todo software ou aplicação deveria seguir.
 - [Geniol](https://www.geniol.com.br/logica/): Interessante site, para testar e treinar raciocinio lógico através de jogos.
 - [pixelastic](https://pixelastic.github.io/pokemonorbigdata/): Outro teste de lógica, porém mais voltado a BigData.
 
