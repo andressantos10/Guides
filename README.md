@@ -47,6 +47,7 @@ Hoje o mercado utiliza diversas tecnologias, a cloud é uma delas, porém você 
 **Monitoramento (Observability)** 
 
 - Prometheus:
+- NewRelic:
 
 **Tipo de Aplicações:** 
 
